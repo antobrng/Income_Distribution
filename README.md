@@ -4,7 +4,7 @@ This repository contains applied econometrics and data analysis projects focusin
 
 The scripts process large-scale survey data, apply statistical rigor, and model complex systems to understand the underlying drivers of income disparity over a 36-year period.
 
-## 🛠 Technologies & Libraries
+## 🛠 Language & Libraries
 * **Language:** Python
 * **Data Manipulation:** `pandas`, `numpy`
 * **Econometrics & Modeling:** `statsmodels` (WLS regressions, Variance Inflation Factor)
